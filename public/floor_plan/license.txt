@@ -1,0 +1,11 @@
+Model Information:
+* title:	Floor Plan
+* source:	https://sketchfab.com/3d-models/floor-plan-260567925a4c41f38d2f814de5f10225
+* author:	Ian Christopher (https://sketchfab.com/ian022385)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Floor Plan" (https://sketchfab.com/3d-models/floor-plan-260567925a4c41f38d2f814de5f10225) by Ian Christopher (https://sketchfab.com/ian022385) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
